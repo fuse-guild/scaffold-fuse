@@ -49,11 +49,10 @@ required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://clas
 
 
 ```bash
-git clone https://github.com/ipatka/scaffold-eth.git
+git clone --branch rarible-starter-app git@github.com:fuse-guild/scaffold-fuse.git rarible-starter-app
 
-cd scaffold-eth
+cd rarible-starter-app
 
-git checkout rarible-starter-app
 ```
 
 ```bash
