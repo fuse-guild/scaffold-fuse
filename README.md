@@ -141,7 +141,7 @@ You can visit your new NFTs on the Rarible site by specifying the contract addre
 
 Go to the Rarible Item indexer tab and enter the contract address for our YourCollectible contract.
 
-This tab uses the metadata indexer which is documented here: https://api-reference.rarible.com/#operation/getItemMetaById
+This tab uses the metadata indexer which is documented here: https://api-reference.rarible.com/#operation/getNftItemMetaById
 
 
 ![Screen Shot 2021-06-14 at 4 04 38 PM](https://user-images.githubusercontent.com/4401444/121971842-b3550e00-cd47-11eb-9a93-1ebaa32e2bc0.png)
